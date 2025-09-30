@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radmanbz&label=Profile%20views&color=0e75b6&style=flat" alt="radmanbz" /> </p>
 
+- Web Developer at Astra Technologies AI
+
 - Founder of [Rayza](https://rayza.xyz) | Leading a team to create digital excellence.
 
 - 🌱 I’m currently learning **data science , machine learning**
