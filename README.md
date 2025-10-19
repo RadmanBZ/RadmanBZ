@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radman</h1>
-<h3 align="center">A passionate Full-stack developer from Iran</h3>
+<h3 align="center">Full-stack developer / Automation Expert</h3>
 
 <img align="right" alt="radman" width="400" src="https://media.licdn.com/dms/image/v2/D4E16AQEDkEZNAoPp-g/profile-displaybackgroundimage-shrink_350_1400/B4EZkRxsFmGYAc-/0/1756939870320?e=1762387200&v=beta&t=NQbTR-DkSfhAgqdmDOF_mm4ZzXb0tojz0j-RaP6ie-c">
 
@@ -7,25 +7,17 @@
 
 - Web Developer at Astra Technologies AI
 
-- Founder of [Rayza](https://rayza.xyz) | Leading a team to create digital excellence.
-
-- 🌱 I’m currently learning **data science , machine learning**
-
-- 💬 Ask me about **Python , Django , Flask**
+- 🌱 AI Specialist / Automation Expert
 
 - 📫 How to reach me **radmanbayatzadeh@gmail.com**
 
-- I am a highly motivated and results-oriented full-stack web developer with a strong foundation in Django. I possess a deep passion for creating innovative and user-centric digital experiences. I excel at analyzing project requirements, identifying optimal solutions, and delivering high-quality results that exceed client expectations.
+- Founder of [Rayza](https://rayza.xyz) | Leading a team to create digital excellence.
 
-As a full-stack web developer, I possess a strong foundation in both front-end and back-end technologies. My expertise spans the entire development lifecycle, from designing intuitive user interfaces with HTML, CSS, JavaScript, and CSS-preprocessors like Bootstrap and Tailwind , to building robust and scalable back-end systems using Python with frameworks like Flask and Django, and integrating with databases like MySQL and SQLite.
+- A results-driven Full-Stack Developer with a Bachelor’s in Computer Science from Islamic Azad University and a strong academic foundation from the National Organization for Development of Exceptional Talents (NODET). My passion lies at the intersection of web development and artificial intelligence, specializing in building scalable, automated systems using modern technologies like Python, React, and Next.js.
 
-Beyond my technical expertise, I thrive in collaborative environments and excel in leading and mentoring development teams. I have a proven track record of successfully managing projects, ensuring efficient execution, timely delivery, and exceeding client expectations. I am a strong communicator, fostering open and productive relationships with colleagues and stakeholders.
+my experience spans several high-impact industries. I developed secure, transaction-heavy backend systems for Exhan, a cryptocurrency exchange, deepening my expertise in FinTech and real-time data. At Loghman, I engineered a comprehensive pharmacy platform, integrating finance and HR modules while automating social media workflows to enhance operational efficiency. Additionally, I led the full-stack development of an interior decoration application, leveraging data analytics to optimize client interactions and project outcomes. I am also the founder of rayza.xyz, where I lead a team in creating digital excellence. and you can explore additional projects and expertise on my website.
 
-I am a certified back-end and python Developer from Tehran Technical Institute, where I excelled with a 95/100 and 93/100 score. This combined with over 220 hours of dedicated training reflects my strong commitment to continuous learning and professional growth.
-
-I bring fluency in English and exceptional communication skills to the table. I thrive on tackling new challenges and collaborating on groundbreaking projects. If you seek a dedicated and versatile professional, let's connect! Reach out to me at radmanbayatzadeh@gmail.com or +98 9934981191.
-
-Let's connect and discuss how I can contribute to your team's success!
+my goal is to continue pushing the boundaries of technology by developing intelligent, AI-driven solutions that solve complex problems. I am actively seeking opportunities to contribute to innovative teams in the AI, FinTech, or Web3 spaces, where I can apply my full-stack skills and passion for automation to build the next generation of digital products. I am open to connecting and discussing how I can bring value to your projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
