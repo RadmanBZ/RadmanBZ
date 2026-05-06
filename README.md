@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Radman</h1>
-<h3 align="center">Full-stack developer / Automation Expert</h3>
+<h3 align="center">Software Engineer & AI Architect | Technical Lead @ OURO | Founder of RAYZA</h3>
 
 <img align="right" alt="radman" width="400" src="https://media.licdn.com/dms/image/v2/D4E16AQEDkEZNAoPp-g/profile-displaybackgroundimage-shrink_350_1400/B4EZkRxsFmGYAc-/0/1756939870320?e=1762387200&v=beta&t=NQbTR-DkSfhAgqdmDOF_mm4ZzXb0tojz0j-RaP6ie-c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radmanbz&label=Profile%20views&color=0e75b6&style=flat" alt="radmanbz" /> </p>
 
-- Web Developer at Astra Technologies AI
+- Technical Lead @ OURO
 
 - 🌱 AI Specialist / Automation Expert
 
@@ -13,11 +13,16 @@
 
 - Founder of [Rayza](https://rayza.xyz) | Leading a team to create digital excellence.
 
-- A results-driven Full-Stack Developer with a Bachelor’s in Computer Science from Islamic Azad University and a strong academic foundation from the National Organization for Development of Exceptional Talents (NODET). My passion lies at the intersection of web development and artificial intelligence, specializing in building scalable, automated systems using modern technologies like Python, React, and Next.js.
+- My work sits at the intersection of product engineering, intelligent systems, and cloud infrastructure. I’ve spent
+years building full-stack and mobile applications where reliability, performance, and user experience mattered as
+much as the code itself. From frontend state management and real-time interfaces to backend services and distributed
+systems, I focus on building software that is designed to scale and to be maintained by teams over time.
 
-my experience spans several high-impact industries. I developed secure, transaction-heavy backend systems for Exhan, a cryptocurrency exchange, deepening my expertise in FinTech and real-time data. At Loghman, I engineered a comprehensive pharmacy platform, integrating finance and HR modules while automating social media workflows to enhance operational efficiency. Additionally, I led the full-stack development of an interior decoration application, leveraging data analytics to optimize client interactions and project outcomes. I am also the founder of rayza.xyz, where I lead a team in creating digital excellence. and you can explore additional projects and expertise on my website.
-
-my goal is to continue pushing the boundaries of technology by developing intelligent, AI-driven solutions that solve complex problems. I am actively seeking opportunities to contribute to innovative teams in the AI, FinTech, or Web3 spaces, where I can apply my full-stack skills and passion for automation to build the next generation of digital products. I am open to connecting and discussing how I can bring value to your projects.
+As a Technical Lead and AI Specialist, I bridge the gap between AI experimentation and production-ready systems. I
+design and ship LLM-based architectures—including RAG frameworks and autonomous AI agents—integrated
+with custom enterprise automation workflows to streamline complex business operations. My focus is on delivering
+maintainable, scalable software and automated infrastructures on AWS and Azure, transforming advanced AI
+capabilities into dependable, high-impact tools that teams and customers trust
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
