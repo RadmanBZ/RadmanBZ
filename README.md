@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radman</h1>
 <h3 align="center">Software Engineer & AI Architect | Technical Lead @ OURO | Founder of RAYZA</h3>
 
-<img align="right" alt="radman" width="400" src="https://media.licdn.com/dms/image/v2/D4E16AQEDkEZNAoPp-g/profile-displaybackgroundimage-shrink_350_1400/B4EZkRxsFmGYAc-/0/1756939870320?e=1762387200&v=beta&t=NQbTR-DkSfhAgqdmDOF_mm4ZzXb0tojz0j-RaP6ie-c">
-
-
 - Technical Lead @ OURO
 
 - 🌱 Full-Stack developer & AI Specialist
